@@ -1,0 +1,9 @@
+.icon-book1:hover {
+    fill: red;
+}
+.icon-book2:hover {
+    fill: rgb(255, 233, 35);
+}
+.screenshot {
+    object-fit: contain;
+}
